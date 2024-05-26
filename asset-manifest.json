@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/addtocart/static/css/main.0c74f8d9.css",
-    "main.js": "/addtocart/static/js/main.a402c7c3.js",
+    "main.css": "/addtocart/static/css/main.7ecdbe66.css",
+    "main.js": "/addtocart/static/js/main.82eb024a.js",
     "static/media/fa-solid-900.ttf": "/addtocart/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
     "static/media/fa-brands-400.ttf": "/addtocart/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
     "static/media/fa-solid-900.woff2": "/addtocart/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
@@ -11,11 +11,11 @@
     "static/media/fa-v4compatibility.ttf": "/addtocart/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
     "static/media/fa-v4compatibility.woff2": "/addtocart/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
     "index.html": "/addtocart/index.html",
-    "main.0c74f8d9.css.map": "/addtocart/static/css/main.0c74f8d9.css.map",
-    "main.a402c7c3.js.map": "/addtocart/static/js/main.a402c7c3.js.map"
+    "main.7ecdbe66.css.map": "/addtocart/static/css/main.7ecdbe66.css.map",
+    "main.82eb024a.js.map": "/addtocart/static/js/main.82eb024a.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c74f8d9.css",
-    "static/js/main.a402c7c3.js"
+    "static/css/main.7ecdbe66.css",
+    "static/js/main.82eb024a.js"
   ]
 }
